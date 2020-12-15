@@ -1,0 +1,14 @@
+{
+  "name": "html-sass-first",
+  "version": "1.0.0",
+  "description": "first sass project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fabrizio Nicolosi",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.30.0"
+  }
+}
